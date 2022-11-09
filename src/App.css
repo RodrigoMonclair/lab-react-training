@@ -126,3 +126,18 @@ code {
   text-align: start;
   margin-left: 10px;
  }
+
+ .btnLikes{
+  text-align: start;
+ }
+
+ .btnLikes button{
+      color: #fff;
+      border-radius: 10px;
+      font-size: large;
+      border: none;
+      background-color: purple;
+      width: 120px;
+      height: 50px;
+      margin: 30px;
+ }
